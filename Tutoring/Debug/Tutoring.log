@@ -1,0 +1,89 @@
+﻿  Game.cpp
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header1.h(29,14): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header1.h(30,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header1.h(34,14): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header1.h(35,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header1.h(41,1): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\totti\source\repos\Tutoring\Tutoring\score.h(34,1): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(38,10): warning C4244:  'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(49,30): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(49,30): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(49,30): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(49,30): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(49,30): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(52,30): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(52,30): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(52,30): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(52,30): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Header.h(52,30): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(15,15): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(19,30): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(19,30): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(19,30): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(19,30): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(19,30): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(26,33): warning C4244:  'return': conversion from 'T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(26,33): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(26,33): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(26,33): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(26,33): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(30,30): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(30,30): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(30,30): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(30,30): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(30,30): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(34,30): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(34,30): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(34,30): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(34,30): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(34,30): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(38,33): warning C4244:  'return': conversion from 'T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(38,33): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(38,33): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(38,33): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\bullet.h(38,33): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(46,32): warning C4244:  'return': conversion from 'T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(46,32): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(46,32): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(46,32): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(46,32): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(50,29): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(50,29): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(50,29): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(50,29): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(50,29): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(54,29): warning C4244:  'return': conversion from 'const T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(54,29): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(54,29): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(54,29): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(54,29): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(58,32): warning C4244:  'return': conversion from 'T' to 'int', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(58,32): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(58,32): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(58,32): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(58,32): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Enemies.h(70,1): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\totti\source\repos\Tutoring\Tutoring\abilities.h(25,1): warning C4305:  'argument': truncation from 'double' to 'T'
+C:\Users\totti\source\repos\Tutoring\Tutoring\abilities.h(25,1): warning C4305:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\abilities.h(25,1): warning C4305:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\abilities.h(25,1): warning C4305:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\abilities.h(25,1): warning C4305:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(169,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(179,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(183,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(187,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(191,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,60): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,60): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,60): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,60): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,45): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,45): warning C4244:         with
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,45): warning C4244:         [
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,45): warning C4244:             T=float
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(198,45): warning C4244:         ]
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(205,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(216,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\totti\source\repos\Tutoring\Tutoring\Game.cpp(233,21): warning C4018:  '<': signed/unsigned mismatch
+  Tutoring.vcxproj -> C:\Users\totti\source\repos\Tutoring\Debug\Tutoring.exe
